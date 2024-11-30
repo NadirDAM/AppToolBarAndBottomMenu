@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/primerFragment2"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Avio" />
+        <item
+            android:id="@+id/segonFragment2"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Cotxe" />
+        <item
+            android:id="@+id/tercerFragment2"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Vaixell" />
+    </group>
+
+    <group
+        android:id="@+id/third_section"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Exit" />
+    </group>
+</menu>
