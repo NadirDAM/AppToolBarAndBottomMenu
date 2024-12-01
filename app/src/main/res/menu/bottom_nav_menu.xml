@@ -3,14 +3,14 @@
 
     <item
         android:id="@+id/primerFragment2"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/avio"
         android:title="Fragment 1" />
     <item
         android:id="@+id/segonFragment2"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/cotxe"
         android:title="Fragment 2" />
     <item
         android:id="@+id/tercerFragment2"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/vaixell"
         android:title="Fragment 3" />
 </menu>
